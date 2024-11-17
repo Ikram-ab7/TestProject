@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+    margin: 0 auto;
+    max-width: 800px;
+}
+h2{
+    font-size: 60px;
+    color: black;
+}
+p{
+    font-size: 33px;
+    color: black;
+}
